@@ -231,7 +231,7 @@ applicable agreement for further details.
 	(pt 296 224)
 )
 (connector
-	(text "SEL[1]" (rect 498 224 531 236)(font "Arial" ))
+	(text "SEL[1]" (rect 482 224 515 236)(font "Arial" ))
 	(pt 520 240)
 	(pt 488 240)
 )
