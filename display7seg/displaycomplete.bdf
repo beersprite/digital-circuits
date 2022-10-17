@@ -23,7 +23,7 @@ applicable agreement for further details.
 	(input)
 	(rect 192 64 360 80)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "IN[3..0]" (rect 5 0 42 12)(font "Arial" ))
+	(text "IN[0..3]" (rect 5 0 43 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
