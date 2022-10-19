@@ -1,4 +1,5 @@
 # digital-circuits
+UFRGS
 Circuitos Digitais 2022/2
 
 - Laboratórios 1 a 8
